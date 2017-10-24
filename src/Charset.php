@@ -234,6 +234,7 @@ class Charset implements CharsetManager
         'cp-866'                   => 'IBM866',
         '866'                      => 'IBM866',
         'csibm866'                 => 'IBM866',
+        'cp-850'                   => 'IBM850',
         'cp850'                    => 'IBM850',
         '850'                      => 'IBM850',
         'csibm850'                 => 'IBM850',
